@@ -1,0 +1,19 @@
+{
+  "name": "testautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testcases.js",
+  "scripts": {
+    "test": "mocha testcases"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "random-email": "^1.0.3",
+    "selenium-webdriver": "^4.10.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
